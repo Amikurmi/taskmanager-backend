@@ -8,7 +8,7 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello(){
-        return "Spring Boot Running Successfully!";
+        return "Hello Anuj Choudhary";
     }
     
 }
